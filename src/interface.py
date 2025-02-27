@@ -26,7 +26,7 @@ def create_interface():
         css=css
     )
     
-    footer = gr.HTML("<div class='footer'>© Iqbal M 2024</div>")
+    footer = gr.HTML("<div class='footer'>© Iqbal m 2024</div>")
     
     with gr.Blocks(css=css, theme=gr.themes.Soft(
             primary_hue="neutral",
